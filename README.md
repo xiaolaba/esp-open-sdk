@@ -7,6 +7,11 @@ https://github.com/pfalcon/esp-open-sdk/issues/365
 
 configure: error: could not find bash >= 3.1
 
+Change line 193 at: esp-open-sdk/crosstool-NG/configure.ac
+like this:
+ |$EGREP '^GNU bash, version ([0-9\.]+)')
+then run make again
+
 ```
 
 
