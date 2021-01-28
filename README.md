@@ -1,3 +1,17 @@
+WSL ubuntu 20.04
+
+```
+
+
+https://github.com/pfalcon/esp-open-sdk/issues/365
+
+configure: error: could not find bash >= 3.1
+
+```
+
+
+
+
 esp-open-sdk
 ------------
 
